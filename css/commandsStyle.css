@@ -23,7 +23,7 @@ td, th{
     padding: 10px;
 }
 tr:nth-child(even){
-    background: #b1acac;
+    background: #b1acac8f;
 }
 table a{
     text-decoration: none;
